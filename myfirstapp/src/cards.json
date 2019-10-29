@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Homer",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/02/Homer_Simpson_2006.png/revision/latest?cb=20190409004803"
+    },
+    {
+      "id": 2,
+      "name": "Bart",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/65/Bart_Simpson.png/revision/latest?cb=20190409004756"
+    },
+    {
+      "id": 3,
+      "name": "Marge",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/0b/Marge_Simpson.png/revision/latest?cb=20190409004747"
+    },
+    {
+      "id": 4,
+      "name": "Lisa",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/d/d5/Lisa_Simpson_official.png/revision/latest?cb=20190409004811"
+    },
+    {
+      "id": 5,
+      "name": "Maggie",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/9d/Maggie_Simpson.png/revision/latest?cb=20130424150432"
+    },
+    {
+      "id": 6,
+      "name": "Burns",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/b/b0/Mr._Burns.png/revision/latest?cb=20130910084050"
+    },
+    {
+      "id": 7,
+      "name": "Krusty",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/07/Tapped_Out_Unlock_Krusty.png/revision/latest?cb=20141120143301"
+    },
+    {
+      "id": 8,
+      "name": "Burns",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/b/b0/Mr._Burns.png/revision/latest?cb=20130910084050"
+    },
+    {
+      "id": 9,
+      "name": "Peter",
+      "image": "https://vignette.wikia.nocookie.net/familyguy/images/5/5d/FGuy_Peter_Gen2012_R3Flat.jpg/revision/latest?cb=20190415212304"
+    },
+    {
+      "id": 10,
+      "name": "Lois",
+      "image": "https://vignette.wikia.nocookie.net/familyguy/images/e/ea/FGuy_Lois_Gen2012_R3Flat.jpg/revision/latest?cb=20120905122108"
+    },
+    {
+      "id": 11,
+      "name": "Stewie",
+      "image": "https://vignette.wikia.nocookie.net/familyguy/images/c/ce/FGuy_Stewie_Gen2012_R3Flat.jpg/revision/latest?cb=20120905115634"
+    },
+    {
+      "id": 12,
+      "name": "Meg",
+      "image": "https://vignette.wikia.nocookie.net/familyguy/images/4/4b/FGuy_Meg_Gen2012_R3Flat.jpg/revision/latest?cb=20120905122204"
+    },
+    {
+      "id": 13,
+      "name": "Brian",
+      "image": "https://vignette.wikia.nocookie.net/familyguy/images/8/8b/FGuy_Brian_Gen2012_R3Flat.jpg/revision/latest?cb=20120905115633"
+    },
+    {
+      "id": 14,
+      "name": "Chris",
+      "image": "https://vignette.wikia.nocookie.net/familyguy/images/e/ec/FGuy_Chris_Gen2012_R3Flat.jpg/revision/latest?cb=20120905122011"
+    },
+    {
+      "id": 15,
+      "name": "Glenn",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/d/da/Quagmire.png/revision/latest?cb=20150729054949"
+    },
+    {
+      "id": 16,
+      "name": "Joe",
+      "image": "https://vignette.wikia.nocookie.net/familyguy/images/9/9c/190px-Joe_Swanson.png/revision/latest?cb=20100326012234"
+    },
+    {
+      "id": 17,
+      "name": "Cleveland",
+      "image": "https://vignette.wikia.nocookie.net/familyguy/images/1/1f/Cleveland.png/revision/latest?cb=20100121115548"
+    }
+  ]
